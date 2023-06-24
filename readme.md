@@ -34,9 +34,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Leaderboard <a id="about-project"></a>
+# 📖 Restaurant Page <a id="about-project"></a>
 
-**Leaderboard** allows the users to introduce their name and their scores and the information is saved with the help of an API.
+**Restaurant Page** is a website that provide information about an invented Tokyo Sushi Bar Restaurant, following the principle of the SPA.
 
 ## 🛠 Built With <a id="built-with"></a>
 
@@ -50,8 +50,7 @@
 <!-- Features -->
 
 ### Key Features
-* Use of Modules.
-* API.
+* SPA.
 * Javascript's dynamics.
 * Use of Webpack.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -59,7 +58,7 @@
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a id="live-demo"></a>
-* [Live Demo](https://luffytaro22.github.io/Leaderboard/dist/)
+* [Live Demo](https://luffytaro22.github.io/Restaurant-page/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,7 +76,7 @@ In order to run this project you need to have:
 To clone this repository to your desired folder, run the following command: <br>
 
 ```
-git clone git@github.com:Luffytaro22/Leaderboard.git
+git clone git@github.com:Luffytaro22/Restaurant-page.git
 ```
 
 ### Install
@@ -137,7 +136,7 @@ npm run start
 ```
 
 ### Deployment
-You can deploy this project with [This Link](https://luffytaro22.github.io/Leaderboard/dist/)
+You can deploy this project with [This Link](https://luffytaro22.github.io/Restaurant-page/dist/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -157,8 +156,8 @@ You can deploy this project with [This Link](https://luffytaro22.github.io/Leade
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a id="future-features"></a>
-* Use of an API.
-* Refresh button functionality.
+* More Content.
+* Better design.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
@@ -184,6 +183,7 @@ If you like this project please give it a star ⭐️
 
 I would like to give credits to the following:
 * **Microverse** for this readme template.
+* **The Odin Project** for the idea.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
