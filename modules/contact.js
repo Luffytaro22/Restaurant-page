@@ -1,7 +1,7 @@
 const contactPage = () => {
   const section = document.getElementById('main-section');
   section.innerHTML = `
-    <div class="container">
+    <div class="container animation-contact">
       <div>
         <h1>Contact Us</h1>
       </div>

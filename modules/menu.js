@@ -17,7 +17,7 @@ import sake from '../src/assets/menu/Sake.jpg';
 const menuPage = () => {
   const section = document.getElementById('main-section');
   section.innerHTML = `
-    <div class="container">
+    <div class="container animation-menu">
       <div>
         <h1>Menu</h1>
       </div>

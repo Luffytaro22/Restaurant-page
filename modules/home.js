@@ -1,7 +1,7 @@
 const homePage = () => {
   const section = document.getElementById('main-section');
   section.innerHTML = `
-    <div class="container">
+    <div class="container animation-home">
       <div>
         <h1>Tokyo Sushi Bar</h1>
       </div>
