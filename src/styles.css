@@ -60,6 +60,7 @@ h3 {
 
 p {
   letter-spacing: 1.5px;
+  text-align: center;
 }
 
 a {
@@ -70,6 +71,54 @@ a {
   background-image: url('./assets/puerta-torii.png');
   background-size: cover;
   background-position: center;
+}
+
+.animation-home {
+  animation-name: home;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+}
+
+@keyframes home {
+  from {
+    transform: scale(0);
+  }
+
+  to {
+    transform: scale(1);
+  }
+}
+
+.animation-menu {
+  animation-name: menu;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+}
+
+@keyframes menu {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.animation-contact {
+  animation-name: contact;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+}
+
+@keyframes contact {
+  from {
+    transform: translateX(-100%);
+  }
+
+  to {
+    transform: translateX(0);
+  }
 }
 
 #nav-list {
