@@ -66,6 +66,12 @@ a {
   color: black;
 }
 
+.active {
+  background-image: url('./assets/puerta-torii.png');
+  background-size: cover;
+  background-position: center;
+}
+
 #nav-list {
   display: flex;
   list-style: none;
