@@ -1,6 +1,15 @@
+@font-face {
+  font-family: Norse Bold;
+  src: url('../Norse-Bold/Norse-Bold.eot');
+  src: url('../Norse-Bold/Norse-Bold.svg');
+  src: url('../Norse-Bold/Norse-Bold.ttf');
+  src: url('../Norse-Bold/Norse-Bold.woff');
+}
+
 * {
   margin: 0;
   padding: 0;
+  font-family: Norse Bold, sans-serif, serif;
 }
 
 img {
@@ -34,6 +43,14 @@ footer {
 
 .container {
   background-color: rgba(247, 197, 205, 0.6);
+  min-height: calc(100vh - (40px + 40px));
+  width: 80%;
+  padding: 20px 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
 }
 
 .nav-items:hover {
@@ -44,7 +61,7 @@ footer {
   background-image: url('./assets/background.jpg');
   background-repeat: repeat;
   background-size: contain;
-  min-height: 100vh;
+  min-height: calc(100vh - (40px + 40px));
   display: flex;
   flex-direction: column;
   align-items: center;
