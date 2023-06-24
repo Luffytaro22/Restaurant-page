@@ -19,7 +19,7 @@ const homePage = () => {
         <p>Sunday: 10am - 6pm</p>
       </div>
       <div>
-        <h3>Location</h3>
+        <h2>Location</h2>
         <p>742 Evergreen Terrace, Springfield</p>
       </div>
     </div>
